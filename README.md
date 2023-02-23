@@ -16,4 +16,5 @@ npm install --save-dev @types/minio
 
 ```sh
 node Upload-S3.js
+
 File uploaded successfully.
