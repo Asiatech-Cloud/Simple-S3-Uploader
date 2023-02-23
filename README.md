@@ -12,7 +12,7 @@ npm install --save minio
 npm install --save-dev @types/minio
 ```
 
-### Step3. Run file-uploader
+## Step3. Run file-uploader
 
 ```sh
 node Upload-S3.js
